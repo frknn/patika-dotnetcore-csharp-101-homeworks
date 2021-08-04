@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\ref\if-else.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\bin\Debug\net5.0\if-else.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\ref\if-else.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\if-else\obj\Debug\net5.0\if-else.genruntimeconfig.cache
