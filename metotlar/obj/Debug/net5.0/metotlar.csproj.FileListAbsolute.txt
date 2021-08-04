@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
