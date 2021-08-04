@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\ref\rekursif-extension.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\bin\Debug\net5.0\rekursif-extension.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\ref\rekursif-extension.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\rekursif-extension\obj\Debug\net5.0\rekursif-extension.genruntimeconfig.cache
