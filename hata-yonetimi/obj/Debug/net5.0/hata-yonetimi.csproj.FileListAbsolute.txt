@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.genruntimeconfig.cache
