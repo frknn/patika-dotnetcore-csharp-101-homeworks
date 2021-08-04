@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\ref\odev-1-algoritma-soruları.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\bin\Debug\net5.0\odev-1-algoritma-soruları.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\ref\odev-1-algoritma-soruları.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\odev-1-algoritma-soruları\obj\Debug\net5.0\odev-1-algoritma-soruları.genruntimeconfig.cache
