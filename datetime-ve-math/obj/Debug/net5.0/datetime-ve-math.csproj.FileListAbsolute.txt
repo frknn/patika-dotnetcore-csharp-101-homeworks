@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\ref\datetime-ve-math.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\bin\Debug\net5.0\datetime-ve-math.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\ref\datetime-ve-math.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\datetime-ve-math\obj\Debug\net5.0\datetime-ve-math.genruntimeconfig.cache
