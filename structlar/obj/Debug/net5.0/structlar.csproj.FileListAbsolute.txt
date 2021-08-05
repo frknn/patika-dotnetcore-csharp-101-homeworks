@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\ref\structlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\bin\Debug\net5.0\structlar.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\ref\structlar.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\structlar\obj\Debug\net5.0\structlar.genruntimeconfig.cache
