@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\ref\array-list.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\bin\Debug\net5.0\array-list.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\ref\array-list.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\array-list\obj\Debug\net5.0\array-list.genruntimeconfig.cache
