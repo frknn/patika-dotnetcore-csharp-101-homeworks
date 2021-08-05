@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\ref\koleksiyonlar-soru-1.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\ref\koleksiyonlar-soru-1.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\koleksiyonlar-odev\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.genruntimeconfig.cache
