@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.exe
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.deps.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.runtimeconfig.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\ref\to-do-app.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\bin\Debug\net5.0\to-do-app.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\ref\to-do-app.dll
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.pdb
+C:\Users\Furkan\Desktop\Projeler\Kodluyoruz\csharp-101\to-do-app\obj\Debug\net5.0\to-do-app.genruntimeconfig.cache
